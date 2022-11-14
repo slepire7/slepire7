@@ -5,7 +5,6 @@
 - ⚡ Hobbies: Mangá, Jogos Eletrônicos ❤
 
 <div>
-  <a align="center" href="https://github.com/slepire7">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=slepire7&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&theme=tokyonight"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slepire7&layout=compact&custom_title=Linguagens%20mais%20usadas&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=false&theme=tokyonight"/>
 </div>

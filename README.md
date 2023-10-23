@@ -1,6 +1,5 @@
 ### Hey, sou o João Reis👋
 
-- 🔭 Atualmente estou trabalhando na Avanade Brasil!
 - 🌱 Desenvolvedor C#
 - ⚡ Hobbies: Mangá, Jogos Eletrônicos ❤
 

@@ -3,11 +3,6 @@
 - 🌱 Desenvolvedor C#
 - ⚡ Hobbies: Mangá, Jogos Eletrônicos ❤
 
-<div>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=slepire7&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&theme=tokyonight"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slepire7&layout=compact&custom_title=Linguagens%20mais%20usadas&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=false&theme=tokyonight"/>
-</div>
-
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Slepire7-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Slepire7-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg"> 
